@@ -16,9 +16,10 @@ A API é responsável por gerenciar \[...Descreva as principais entidades, ex: "
 ## 2. Integrantes do Grupo
 
 
-| Nome | RM |
+| Nome                       | RM       |
+|:---------------------------|:---------|
 | João Victor Alves da Silva | RM559726 |
-| Vinicius Kenzo Tocuyosi | RM559982 | 
+| Vinicius Kenzo Tocuyosi    | RM559982 |
 
 
 
@@ -72,9 +73,9 @@ Este projeto é 100% containerizado. Para executá-lo, você só precisa ter o D
 
   ```bash
 
-   git clone \[...Link do seu repositório GitHub...]
+   git clone https://github.com/JoaoVictor087/plantcare-api
 
-  cd \[nome-do-seu-repositorio]
+  cd plantcare-api
 
    ```
 
