@@ -4,12 +4,6 @@
 
 Este projeto é a API backend para a solução PlantCare , desenvolvida como parte do Challenge Oracle / FIAP 2TDS.
 
-
-
-A API é responsável por gerenciar \[...Descreva as principais entidades, ex: "usuários, plantas, leituras de sensores e recomendações de cuidado"...].
-
-
-
 ---
 
 
@@ -119,7 +113,7 @@ Este projeto é 100% containerizado. Para executá-lo, você só precisa ter o D
 
 
 
-\## 5. Documentação da API (Endpoints)
+## 5. Documentação da API (Endpoints)
 
 
 
@@ -145,15 +139,12 @@ A documentação completa da API, gerada com Swagger/OpenAPI, pode ser acessada 
 
 * `GET /api/plantas/{id}`: Retorna os detalhes de uma planta.
 
-* `\[...Adicione outros endpoints importantes...]`
-
-
 
 ---
 
 
 
-\## 6. Vídeo de Demonstração (Challenge)
+## 6. Vídeo de Demonstração (Challenge)
 
 
 
